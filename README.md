@@ -5,8 +5,8 @@ I was looking on github for something simple and functional to parse arguments. 
 
 # How to use ?
 
-1 - Add the FastArgumentParser Class to your VB or C# project
-2 - Copy&Paste the example and adapt it to your use.
+1. Add the FastArgumentParser Class to your VB or C# project
+2. Copy&Paste the example and adapt it to your use.
 
 # Visual Basic
 
