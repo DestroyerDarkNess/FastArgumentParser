@@ -77,7 +77,7 @@ namespace Core
                 }
                 else if (LastArg != null)
                 {
-                    if (!LastArg.Value == string.Empty)
+                     if (string.IsNullOrWhiteSpace(LastArg.Value) == false)
                         LastArg.Value += ParameterDelimiter;
                     LastArg.Value += strEnum.Current;
                     continue;
